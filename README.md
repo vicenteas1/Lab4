@@ -12,7 +12,6 @@ Este proyecto es una API REST desarrollada con **Express + TypeScript**, diseña
 - express-validator
 - Swagger (OpenAPI)
 - Winston (logging)
-- tsx (dev server)
 - YAML (para Swagger)
 
 ---
